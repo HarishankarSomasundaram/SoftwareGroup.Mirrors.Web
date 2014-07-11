@@ -1,0 +1,51 @@
+﻿@model SoftwareGroup.Mirrors.WebUI.Models.DSWizardViewModel
+@using (Html.BeginForm(null, null, FormMethod.Get, new { id = "DSWizard2" }))
+{
+    @Html.HiddenFor(m => m.DataSourceType);
+    @Html.HiddenFor(m => m.StepNumber);
+
+    <div style="margin-top:10px;margin-bottom:10px;">
+        @Html.LabelFor(m => m.ServerName)
+        @Html.TextBoxFor(m => m.ServerName)
+    </div>
+
+    <div style="margin-top:10px;margin-bottom:10px;">
+        <div>
+            @Html.RadioButtonFor(m => m.AuthenticationType, "Windows") Use Windows Authentication
+            <br />
+            @Html.RadioButtonFor(m => m.AuthenticationType, "Sql") Use the Following user name and password
+        </div>
+        <div id="credentials">
+            <div>
+                @Html.LabelFor(m => m.UserName)
+                @Html.TextBoxFor(m => m.UserName)
+            </div>
+            <div>
+                @Html.LabelFor(m => m.Password)
+                @Html.TextBoxFor(m => m.Password)
+            </div>
+        </div>
+    </div>
+
+}
+
+<script type="text/javascript">
+    $(document).ready(
+function () {
+    $("#AuthenticationType").click(function () {
+        alert("hi");
+        var selectedVal = $('input[name=AuthenticationType]:checked').val();
+        alert(selectedVal);
+        if (selectedVal == 'Windows')
+        {
+            $('#UserName').attr("disabled",true);
+            $('#Password').attr("disabled", true);
+        }
+
+        if (selectedVal == 'SQlServer') {
+            $('#UserName').attr("disabled", false);
+            $('#Password').attr("disabled",false);
+        }
+    });
+});
+</script>

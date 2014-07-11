@@ -1,0 +1,19 @@
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.csprojResolveAssemblyReference.cache
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.csprojResolveAssemblyReference.cache
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.csprojResolveAssemblyReference.cache
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Debug\SoftwareGroup.Mirrors.DataEntity.pdb

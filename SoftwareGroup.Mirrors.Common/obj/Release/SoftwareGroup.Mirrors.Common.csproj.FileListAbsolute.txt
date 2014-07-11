@@ -1,0 +1,4 @@
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Common\bin\Release\SoftwareGroup.Mirrors.Common.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Common\bin\Release\SoftwareGroup.Mirrors.Common.pdb
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Common\obj\Release\SoftwareGroup.Mirrors.Common.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Common\obj\Release\SoftwareGroup.Mirrors.Common.pdb

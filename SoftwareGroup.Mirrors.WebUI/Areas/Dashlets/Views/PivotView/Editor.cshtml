@@ -1,0 +1,24 @@
+﻿@model System.Collections.IEnumerable
+@{
+    PivotGridSettings pivotGridSettings = SoftwareGroup.Mirrors.WebUI.Areas.Dashlets.Controllers.DataHelper.ChartDashletPivotGridSettings;
+
+}
+
+@Html.DevExpress().RoundPanel(
+    settings =>
+    {
+        settings.Name = "roundPanel";
+        settings.HeaderText = "Complex Pivot Table";
+        settings.Width = System.Web.UI.WebControls.Unit.Percentage(100);
+        settings.SetContent(() =>
+        {
+            ViewContext.Writer.Write("<div><div style=\"float:left; padding-right:10px;\">");
+            Html.DevExpress().PivotCustomizationExtension(pivotGridSettings).Render();
+            ViewContext.Writer.Write("</div><div>");
+            Html.RenderPartial("PivotPartial", Model);
+            ViewContext.Writer.Write("</div></div>");
+        });
+    }).GetHtml()
+
+
+

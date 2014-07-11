@@ -1,0 +1,8 @@
+﻿@{
+    PivotGridSettings pivotGridSettings = SoftwareGroup.Mirrors.WebUI.Areas.Dashlets.Controllers.DataHelper.ChartDashletPivotGridSettings;
+}
+
+@Html.DevExpress().PivotGrid(pivotGridSettings).Bind(Model).GetHtml()
+
+
+

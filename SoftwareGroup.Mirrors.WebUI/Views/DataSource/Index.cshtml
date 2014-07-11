@@ -1,0 +1,146 @@
+﻿<h2>Datasource Manager</h2>
+
+
+<p id="CreateDataSource"> Create New DataSource </p>
+
+<div id="SelectDataSource"></div>
+<div id="SelectDataBase"></div>
+<div id="ConnectDataBase"></div>
+
+
+
+<script type="text/javascript">
+    $(document).ready(
+        function ()
+        {
+            $('#CreateDataSource').on('click', function () {
+
+                $("#SelectDataSource").dialog({
+                    autoOpen: true,
+                    width: 1000,
+                    resizable: true,
+                    title: 'Select a Data Source',
+                    modal: false,
+                    open: function () {
+                        $(this).load('@Url.Action("DSWizard1", "DataSource")');
+                    },
+                    buttons: {
+                        "Next": function () {
+                            var model = $('input[name=DataSourceType]:checked').val();
+                            //var model = $("#DSWizard1").serialize();
+                            alert(model);
+                            if (model == 'OLTP') {
+                                $(this).dialog("close");
+                                $.ajax({
+                                    url: '@Url.Action("DSWizard2", "DataSource")',
+                                    type: 'POST',
+                                    data: $("#DSWizard1").serialize(),
+                                    success: function (data) {
+                                        $("#SelectDataSource").dialog("close");
+                                        OpenDSWizard2(data);
+                                    }
+                                });
+                            }
+
+                            else {
+                                $("#MessageBox").empty();
+                                $("#MessageBox").dialog({
+                                    autoOpen: true,
+                                    width: 500,
+                                    height:100,
+                                    resizable: true,
+                                    title: 'Message',
+                                    modal: false,
+                                    open: function () {
+                                        $("#MessageBox").append("<p>Please Select Sql Server for now</p>");
+                                    }
+                                });
+                            }
+                        },
+                        "Back": function () {
+                            alert("Back")
+                        },
+
+                        Cancel: function () {
+                            $(this).dialog("close");
+                        }
+                    }
+                });
+                return false;
+            });
+
+            function OpenDSWizard2(data) {
+                $("#SelectDataBase").empty();
+                $("#SelectDataBase").append(data);
+                $("#SelectDataBase").dialog({
+                    autoOpen: true,
+                    width: 1000,
+                    resizable: true,
+                    title: 'Select Database',
+                    modal: false,
+                    open: function () {
+                        alert(data);
+                    },
+                    buttons: {
+                        "Next": function () {
+                            $(this).dialog("close");
+                            $.ajax({
+                                url: '@Url.Action("DSWizard3", "DataSource")',
+                                type: 'POST',
+                                data: $("#DSWizard2").serialize(),
+                                success: function (data) {
+                                    $("#SelectDataBase").dialog("close");
+                                    OpenDSWizard3(data);
+                                }
+                            });
+                        },
+
+                        "Back": function () {
+                            alert("Back")
+                        },
+
+                        Cancel: function () {
+                            $(this).dialog("close");
+                        }
+                    }
+                });
+
+
+            }
+
+            function OpenDSWizard3(data) {
+                $("#ConnectDataBase").empty();
+                $("#ConnectDataBase").append(data);
+                $("#ConnectDataBase").dialog({
+                    autoOpen: true,
+                    width: 1000,
+                    resizable: true,
+                    title: 'Connect Database',
+                    data: $("#DSWizard2").serialize(),
+                    modal: false,
+
+                    open: function () {
+                        alert(data);
+                    },
+                    buttons: {
+                        "Next": function () {
+                            alert("To be Implemented")
+                        },
+                        "Back": function () {
+                            alert("To be Implemented")
+                        },
+
+                        Cancel: function () {
+                            $(this).dialog("close");
+                        }
+                    }
+                });
+
+
+            }
+
+
+
+        }
+        )
+</script>

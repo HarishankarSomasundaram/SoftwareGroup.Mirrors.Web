@@ -1,0 +1,64 @@
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.csprojResolveAssemblyReference.cache
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll.config
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll.config
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.csprojResolveAssemblyReference.cache
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll.config
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll.config
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Repository.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.csprojResolveAssemblyReference.cache
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Debug\SoftwareGroup.Mirrors.Repository.pdb

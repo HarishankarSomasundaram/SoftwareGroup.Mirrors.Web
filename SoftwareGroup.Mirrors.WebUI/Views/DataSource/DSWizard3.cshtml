@@ -1,0 +1,94 @@
+﻿@model SoftwareGroup.Mirrors.WebUI.Models.DSWizardViewModel
+
+
+
+@using (Html.BeginForm(null, null, FormMethod.Get, new { id = "DSWizard3" }))
+{
+    @Html.HiddenFor(m => m.DataSourceType);
+    @Html.HiddenFor(m => m.StepNumber);
+    @Html.HiddenFor(m => m.AuthenticationType);
+    @Html.HiddenFor(m => m.ServerName);
+    @Html.HiddenFor(m => m.UserName);
+    @Html.HiddenFor(m => m.Password);
+    <h4>Select Database </h4>
+
+
+    <div style="margin-top:10px;margin-bottom:10px;">
+        @Html.LabelFor(m => m.Databases)
+        @Html.DropDownListFor(m => m.selectedDatabase, Model.Databases))
+
+    </div>
+    <p>Select the database and View or Stored Procedure that contains the data you want </p>
+
+    <div style="margin-top:10px;margin-bottom:10px;">
+        @Html.LabelFor(m => m.Views)
+        @Html.DropDownListFor(m => m.selectedView, Model.Views))
+
+    </div>
+
+    <div style="margin-top:10px;margin-bottom:10px;">
+        @Html.LabelFor(m => m.Columns)<br />
+        @Html.ListBoxFor(m => m.selectedColumns, new MultiSelectList(new[] { " ", " " }))
+
+    </div>
+
+    <script type="text/javascript">
+        $(document).ready(
+            function () {
+
+                $('#selectedDatabase').change(function () {
+                    alert("triggered");
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetViewsSp", "DataSource")',
+                        data: $("#DSWizard3").serialize(),
+                        success: function (data) {
+                            $('#selectedView').empty();
+                            alert(data);
+                            $.each(data, function (i,object) {
+                                alert(object.Value + ":" + object.Text);
+                                var div_data = "<option value=" + object.Value + ">" + object.Text + "</option>";
+                                alert(div_data);
+                                $(div_data).appendTo('#selectedView');
+                            });
+                        },
+                        error: function (data) {
+                            alert("in error");
+                        }
+                    });
+                }
+                     );
+                $('#selectedView').change(function () {
+                    alert("ViewTriggered");
+                    $.ajax({
+                        type: "POST",
+                        url: '@Url.Action("GetColumns", "DataSource")',
+                        data: $("#DSWizard3").serialize(),
+                        success: function (data) {
+                            $('#selectedColumns').empty();
+                            var columnArray = [data];
+                            alert(data);
+                            alert(columnArray);
+                            alert("in new function");
+                            for (i = 0; i < data.length;i++)
+                            {
+                                var div_data = "<option value=" + data[i] + ">" + data[i] + "</option>";
+                                alert(div_data);
+                                $(div_data).appendTo('#selectedColumns');
+                            }
+                        },
+                        error: function (data) {
+                            alert("in error");
+                        }
+                    });
+                }
+                     );
+            }
+
+
+
+        );
+
+    </script>
+}
+

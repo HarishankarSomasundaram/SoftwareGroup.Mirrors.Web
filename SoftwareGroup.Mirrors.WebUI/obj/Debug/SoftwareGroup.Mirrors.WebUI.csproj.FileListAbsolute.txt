@@ -1,0 +1,509 @@
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.csprojResolveAssemblyReference.cache
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll.config
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Antlr3.Runtime.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\JDash.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\JDash.Mvc.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\JDash.SessionProvider.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\JDash.SqlProvider.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Optimization.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\WebGrease.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Autofac.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\log4net.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Autofac.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\log4net.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\de\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\es\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\fr\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\it\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ja\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ko\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\ru\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.csprojResolveAssemblyReference.cache
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll.config
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Antlr3.Runtime.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Charts.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Data.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Office.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.PivotGrid.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Printing.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.RichEdit.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.SpellChecker.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Utils.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxHtmlEditor.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxPivotGrid.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxScheduler.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpellChecker.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxThemes.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxTreeList.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.Mvc.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraCharts.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraCharts.v14.1.Web.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraPivotGrid.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraReports.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraReports.v14.1.Web.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.Mvc.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.SessionProvider.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.SqlProvider.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Optimization.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\WebGrease.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\log4net.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\log4net.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll.config
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Charts.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Data.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Office.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.PivotGrid.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Printing.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.RichEdit.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.SpellChecker.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Utils.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxHtmlEditor.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxPivotGrid.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxScheduler.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpellChecker.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxThemes.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxTreeList.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.Mvc.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraCharts.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraCharts.v14.1.Web.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraPivotGrid.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraReports.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraReports.v14.1.Web.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.Mvc.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.SessionProvider.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\JDash.SqlProvider.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Optimization.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\WebGrease.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\log4net.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\log4net.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraEditors.v14.1.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll.config
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.WebUI.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Antlr3.Runtime.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Charts.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Data.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Office.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.PivotGrid.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Printing.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.RichEdit.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.SpellChecker.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Utils.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxHtmlEditor.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxPivotGrid.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxScheduler.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpellChecker.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxThemes.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxTreeList.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.Mvc.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraCharts.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraCharts.v14.1.Web.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraPivotGrid.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraReports.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraReports.v14.1.Web.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Infrastructure.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Optimization.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\WebGrease.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\log4net.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Common.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Core.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.DataEntity.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Infra.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Repository.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\SoftwareGroup.Mirrors.Service.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Newtonsoft.Json.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Net.Http.Formatting.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Helpers.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.WebHost.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Mvc.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Razor.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Deployment.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.WebPages.Razor.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Web.Http.OData.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.Edm.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Microsoft.Data.OData.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\System.Spatial.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\log4net.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\Autofac.Configuration.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\EntityFramework.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraScheduler.v14.1.Core.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Web.ASPxSpreadsheet.v14.1.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Spreadsheet.v14.1.Core.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraEditors.v14.1.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.Sparkline.v14.1.Core.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\DevExpress.XtraGauges.v14.1.Core.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\fr\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\it\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ko\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hans\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\zh-Hant\System.Spatial.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraScheduler.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraEditors.v14.1.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraEditors.v14.1.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraEditors.v14.1.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraEditors.v14.1.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\de\DevExpress.XtraGauges.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\es\DevExpress.XtraGauges.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ja\DevExpress.XtraGauges.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\bin\ru\DevExpress.XtraGauges.v14.1.Core.resources.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.csprojResolveAssemblyReference.cache
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.WebUI\obj\Debug\SoftwareGroup.Mirrors.WebUI.pdb

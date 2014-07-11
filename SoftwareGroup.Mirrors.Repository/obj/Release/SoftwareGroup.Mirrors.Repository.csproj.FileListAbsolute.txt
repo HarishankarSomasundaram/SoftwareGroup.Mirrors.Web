@@ -1,0 +1,16 @@
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.Repository.dll.config
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.Repository.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.Repository.pdb
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\EntityFramework.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\EntityFramework.SqlServer.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.Common.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.Core.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.DataEntity.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.Common.pdb
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.Core.pdb
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\SoftwareGroup.Mirrors.DataEntity.pdb
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\EntityFramework.xml
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\bin\Release\EntityFramework.SqlServer.xml
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Release\SoftwareGroup.Mirrors.Repository.csprojResolveAssemblyReference.cache
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Release\SoftwareGroup.Mirrors.Repository.dll
+I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Repository\obj\Release\SoftwareGroup.Mirrors.Repository.pdb

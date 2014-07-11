@@ -1,0 +1,76 @@
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.pdb
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.xml
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.csprojResolveAssemblyReference.cache
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.dll
+D:\Mirrors Backup\SoftwareGroup.Mirrors_25June2014\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.pdb
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.xml
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.csprojResolveAssemblyReference.cache
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.dll
+C:\dNoesis\MV3 Project\Code\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.pdb
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.xml
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.csprojResolveAssemblyReference.cache
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.dll
+C:\Users\Yoga Kumaresan\Documents\GitHub\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Service.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Common.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Core.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.DataEntity.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\SoftwareGroup.Mirrors.Infra.pdb
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\log4net.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\bin\Debug\Autofac.Configuration.xml
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.csprojResolveAssemblyReference.cache
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.dll
+E:\Mirries Source Backup\Mirrors-V3\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.Service\obj\Debug\SoftwareGroup.Mirrors.Service.pdb
