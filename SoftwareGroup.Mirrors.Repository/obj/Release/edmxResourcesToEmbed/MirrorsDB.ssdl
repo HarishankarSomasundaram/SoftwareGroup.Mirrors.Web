@@ -17,7 +17,7 @@
     <Property Name="CreatedUserId" Type="int" Nullable="false" />
     <Property Name="CreatedDate" Type="datetime" Nullable="false" />
     <Property Name="UpdatedUserId" Type="int" />
-    <Property Name="UpdatedDate" Type="datetime" />
+    <Property Name="UpadtedDate" Type="datetime" />
     <Property Name="Email" Type="varchar" MaxLength="250" />
     <Property Name="PersonalPhone" Type="varchar" MaxLength="25" />
     <Property Name="WorkPhone" Type="varchar" MaxLength="25" />

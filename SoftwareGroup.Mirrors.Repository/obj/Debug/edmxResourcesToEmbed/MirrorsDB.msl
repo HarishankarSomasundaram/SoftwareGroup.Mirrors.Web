@@ -4,10 +4,10 @@
     <EntitySetMapping Name="UserProfiles">
       <EntityTypeMapping TypeName="MirrorsModel.UserProfile">
         <MappingFragment StoreEntitySet="UserProfile">
-          <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
           <ScalarProperty Name="WorkPhone" ColumnName="WorkPhone" />
           <ScalarProperty Name="PersonalPhone" ColumnName="PersonalPhone" />
           <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="UpadtedDate" ColumnName="UpadtedDate" />
           <ScalarProperty Name="UpdatedUserId" ColumnName="UpdatedUserId" />
           <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
           <ScalarProperty Name="CreatedUserId" ColumnName="CreatedUserId" />

@@ -2,3 +2,8 @@ I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Re
 I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\bin\Release\SoftwareGroup.Mirrors.DataEntity.pdb
 I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Release\SoftwareGroup.Mirrors.DataEntity.dll
 I:\DEV\dNoesis\SoftwareGroup.Mirrors.Web\SoftwareGroup.Mirrors.DataEntity\obj\Release\SoftwareGroup.Mirrors.DataEntity.pdb
+D:\Hari\Mirrors\SoftwareGroup.Mirrors.DataEntity\bin\Release\SoftwareGroup.Mirrors.DataEntity.dll
+D:\Hari\Mirrors\SoftwareGroup.Mirrors.DataEntity\bin\Release\SoftwareGroup.Mirrors.DataEntity.pdb
+D:\Hari\Mirrors\SoftwareGroup.Mirrors.DataEntity\obj\Release\SoftwareGroup.Mirrors.DataEntity.dll
+D:\Hari\Mirrors\SoftwareGroup.Mirrors.DataEntity\obj\Release\SoftwareGroup.Mirrors.DataEntity.pdb
+D:\Hari\Mirrors\SoftwareGroup.Mirrors.DataEntity\obj\Release\SoftwareGroup.Mirrors.DataEntity.csprojResolveAssemblyReference.cache

@@ -35,7 +35,7 @@ namespace SoftwareGroup.Mirrors.Repository
                             PasswordFailuresSinceLastSuccess = u.PasswordFailuresSinceLastSuccess ?? 0,
                             PasswordHash = u.PasswordHash,
                             PasswordSalt = u.PasswordSalt,
-                            UpadtedDate = u.UpdatedDate,
+                            UpadtedDate = u.UpadtedDate,
                             UpdatedUserId = u.UpdatedUserId,
                             UserId = u.UserId,
                             PersonalPhone = u.PersonalPhone,
@@ -48,6 +48,9 @@ namespace SoftwareGroup.Mirrors.Repository
         {
             using (var ctx = new MirrorsEntities())
             {
+
+
+
                 return (from u in ctx.UserProfiles
                         where u.Username == username
                         select new UserDetail()
@@ -64,12 +67,14 @@ namespace SoftwareGroup.Mirrors.Repository
                             PasswordFailuresSinceLastSuccess = u.PasswordFailuresSinceLastSuccess ?? 0,
                             PasswordHash = u.PasswordHash,
                             PasswordSalt = u.PasswordSalt,
-                            UpadtedDate = u.UpdatedDate,
+                            UpadtedDate = u.UpadtedDate,
                             UpdatedUserId = u.UpdatedUserId,
                             UserId = u.UserId,
                             PersonalPhone = u.PersonalPhone,
                             WorkPhone = u.WorkPhone
                         }).FirstOrDefault();
+              
+
             }
         }
 

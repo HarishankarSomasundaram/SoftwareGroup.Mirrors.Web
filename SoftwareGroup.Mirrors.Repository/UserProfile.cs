@@ -27,9 +27,9 @@ namespace SoftwareGroup.Mirrors.Repository
         public int CreatedUserId { get; set; }
         public System.DateTime CreatedDate { get; set; }
         public Nullable<int> UpdatedUserId { get; set; }
+        public Nullable<System.DateTime> UpadtedDate { get; set; }
         public string Email { get; set; }
         public string PersonalPhone { get; set; }
         public string WorkPhone { get; set; }
-        public Nullable<System.DateTime> UpdatedDate { get; set; }
     }
 }

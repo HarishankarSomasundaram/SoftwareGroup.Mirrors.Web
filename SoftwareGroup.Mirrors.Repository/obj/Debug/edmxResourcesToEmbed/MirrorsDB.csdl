@@ -22,10 +22,10 @@
     <Property Name="CreatedUserId" Type="Int32" Nullable="false" />
     <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
     <Property Name="UpdatedUserId" Type="Int32" />
+    <Property Name="UpadtedDate" Type="DateTime" Precision="3" />
     <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
     <Property Name="PersonalPhone" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
     <Property Name="WorkPhone" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
-    <Property Name="UpdatedDate" Type="DateTime" Precision="3" />
   </EntityType>
   <EntityType Name="UserRole">
     <Key>

@@ -22,7 +22,7 @@
           <Property Name="CreatedUserId" Type="int" Nullable="false" />
           <Property Name="CreatedDate" Type="datetime" Nullable="false" />
           <Property Name="UpdatedUserId" Type="int" />
-          <Property Name="UpdatedDate" Type="datetime" />
+          <Property Name="UpadtedDate" Type="datetime" />
           <Property Name="Email" Type="varchar" MaxLength="250" />
           <Property Name="PersonalPhone" Type="varchar" MaxLength="25" />
           <Property Name="WorkPhone" Type="varchar" MaxLength="25" />
@@ -76,10 +76,10 @@
           <Property Name="CreatedUserId" Type="Int32" Nullable="false" />
           <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
           <Property Name="UpdatedUserId" Type="Int32" />
+          <Property Name="UpadtedDate" Type="DateTime" Precision="3" />
           <Property Name="Email" Type="String" MaxLength="250" FixedLength="false" Unicode="false" />
           <Property Name="PersonalPhone" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
           <Property Name="WorkPhone" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
-          <Property Name="UpdatedDate" Type="DateTime" Precision="3" />
         </EntityType>
         <EntityType Name="UserRole">
           <Key>
@@ -99,7 +99,7 @@
           <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
           <Property Name="CreatedUserId" Type="Int32" Nullable="false" />
         </EntityType>
-      </Schema>
+        </Schema>
     </edmx:ConceptualModels>
     <!-- C-S mapping content -->
     <edmx:Mappings>
@@ -108,10 +108,10 @@
           <EntitySetMapping Name="UserProfiles">
             <EntityTypeMapping TypeName="MirrorsModel.UserProfile">
               <MappingFragment StoreEntitySet="UserProfile">
-                <ScalarProperty Name="UpdatedDate" ColumnName="UpdatedDate" />
                 <ScalarProperty Name="WorkPhone" ColumnName="WorkPhone" />
                 <ScalarProperty Name="PersonalPhone" ColumnName="PersonalPhone" />
                 <ScalarProperty Name="Email" ColumnName="Email" />
+                <ScalarProperty Name="UpadtedDate" ColumnName="UpadtedDate" />
                 <ScalarProperty Name="UpdatedUserId" ColumnName="UpdatedUserId" />
                 <ScalarProperty Name="CreatedDate" ColumnName="CreatedDate" />
                 <ScalarProperty Name="CreatedUserId" ColumnName="CreatedUserId" />
